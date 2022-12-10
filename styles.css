@@ -1,0 +1,123 @@
+.Гусев {
+color: red;
+  position:absolute;
+  top: 650px; /*[wherever you want it]*/
+  left:418px; /*[wherever you want it]*/
+}
+
+.Харламов {
+color: red;
+  position:absolute;
+  top: 651px; /*[wherever you want it]*/
+  left:415px; /*[wherever you want it]*/
+}
+.Петров {
+color: red;
+  position:absolute;
+  top: 653px; /*[wherever you want it]*/
+  left:410px; /*[wherever you want it]*/
+}
+.Рагулин {
+color: red;
+  position:absolute;
+  top: 779px; /*[wherever you want it]*/
+  left:382px; /*[wherever you want it]*/
+}
+.Блютранс {
+color: red;
+  position:absolute;
+  top: 771px; /*[wherever you want it]*/
+  left:389px; /*[wherever you want it]*/
+}
+
+
+.image {
+position: relative;
+width: 1334px;
+height: 718px;
+background-image: url("Murmansk map.png");
+background-repeat: no-repeat;
+margin-right: 10px;
+margin-left: 45px;
+}
+
+.text {
+height: 100px;
+text-align: center;
+}
+
+.Титовка {
+color: red;
+  position:absolute;
+  top: 74px; /*[wherever you want it]*/
+  left:34px; /*[wherever you want it]*/
+}
+
+.Кислуха {
+color: red;
+  position:absolute;
+  top: 55px; /*[wherever you want it]*/
+  left:55px; /*[wherever you want it]*/
+}
+.Средняя_Ура {
+color: red;
+  position:absolute;
+  top: 306px; /*[wherever you want it]*/
+  left:351px; /*[wherever you want it]*/
+}
+.Шалим {
+color: red;
+  position:absolute;
+  top: 271px; /*[wherever you want it]*/
+  left:407px; /*[wherever you want it]*/
+}
+.ЧО2 {
+color: red;
+  position:absolute;
+  top: 260px; /*[wherever you want it]*/
+  left:431px; /*[wherever you want it]*/
+}
+.Еретик {
+color: red;
+  position:absolute;
+  top: 242px; /*[wherever you want it]*/
+  left:431px; /*[wherever you want it]*/
+}
+.Кислая {
+color: red;
+  position:absolute;
+  top: 380px; /*[wherever you want it]*/
+  left:522px; /*[wherever you want it]*/
+}
+.Большой_Березов {
+color: red;
+  position:absolute;
+  top: 483px; /*[wherever you want it]*/
+  left:586px; /*[wherever you want it]*/
+}
+
+.Зеленецкая_Западная {
+color: red;
+  position:absolute;
+  top: 380px; /*[wherever you want it]*/
+  left:670px; /*[wherever you want it]*/
+}
+
+.Кильдин_Западный {
+color: red;
+  position:absolute;
+  top: 336px; /*[wherever you want it]*/
+  left:757px; /*[wherever you want it]*/
+}
+.Зеленая {
+color: red;
+  position:absolute;
+  top: 489px; /*[wherever you want it]*/
+  left:1084px; /*[wherever you want it]*/
+}
+.Долгая {
+color: red;
+  position:absolute;
+  top: 516px; /*[wherever you want it]*/
+  left:1095px; /*[wherever you want it]*/
+}
